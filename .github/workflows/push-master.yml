@@ -1,6 +1,6 @@
 name: HyperSerialPico CI Build
 
-on: [push]
+on: workflow_dispatch
 
 jobs:
 
